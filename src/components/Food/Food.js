@@ -22,7 +22,7 @@ export default class Food extends Component {
                 // },
                 // {
                 //     id: 3,
-                //     name: '麻辣小龙虾',
+                //     name: '',
                 //     price: 120.5,
                 //     time:1605707571203
                 // },
