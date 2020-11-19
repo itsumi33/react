@@ -1,0 +1,14 @@
+.header{
+    width: 100vw;
+    height: 60px;
+    background-color: orange;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.header-title{
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+    line-height:60px;
+}

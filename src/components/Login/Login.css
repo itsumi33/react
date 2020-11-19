@@ -1,0 +1,17 @@
+.input{
+    width: 98vw;
+    height: 300px;
+    border: 1px solid blue;
+    font-size: 30px;
+}
+.input .user{
+    width: 240px;
+    height: 30px;
+    font-size: 20px;
+}
+.input .login{
+    width: 100px;
+    height: 30px;
+    margin: 10px 100px;
+    font-size: 20px;
+}

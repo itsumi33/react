@@ -1,0 +1,21 @@
+.footer{
+    width: 100vw;
+    height: 60px;
+    background-color: orange;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    display: flex;
+}
+
+.footer a{
+    font-size: 30px;
+    color: #fff;
+    flex: 1;
+    text-align: center;
+    line-height: 60px;
+}
+.select{
+    background-color: purple;
+    color:#fff
+}
